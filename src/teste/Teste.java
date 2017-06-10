@@ -10,5 +10,8 @@ package teste;
  * @author Gladiston Fernando
  */
 public class Teste {
-    
+    public static void main(String[] args) {
+        
+    }
+   
 }
